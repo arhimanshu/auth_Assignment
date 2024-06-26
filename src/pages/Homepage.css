@@ -1,0 +1,12 @@
+.homepage {
+    background-image: url("/pexels-veeterzy-303383.jpg"); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    display: flex; /* Optional: for centering content */
+    justify-content: center; /* Optional: for centering content */
+    align-items: center; /* Optional: for centering content */
+    color: white; /* Adjust text color for better visibility */
+  }
+  
